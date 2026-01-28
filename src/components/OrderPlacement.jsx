@@ -24,7 +24,7 @@ const OrderPlacement = () => {
             `*Notes:* ${notes || 'None'}`;
 
         // Open WhatsApp
-        const whatsappUrl = `https://wa.me/919942685352?text=${message}`;
+        const whatsappUrl = `https://wa.me/919042954268?text=${message}`;
         window.open(whatsappUrl, '_blank');
     };
 

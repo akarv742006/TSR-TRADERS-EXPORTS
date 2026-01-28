@@ -70,11 +70,11 @@ const Contact = () => {
                                 </li>
                                 <li className="flex items-center">
                                     <Phone className="h-6 w-6 text-tsr-blue-light mr-4" />
-                                    <a href="tel:9942685352" className="hover:text-tsr-blue-light transition-colors">+91 99426 85352</a>
+                                    <a href="tel:9042954268" className="hover:text-tsr-blue-light transition-colors">+91 90429 54268</a>
                                 </li>
                                 <li className="flex items-center">
                                     <Mail className="h-6 w-6 text-tsr-blue-light mr-4" />
-                                    <a href="mailto:support@tsrtraders.com" className="hover:text-tsr-blue-light transition-colors">support@tsrtraders.com</a>
+                                    <a href="mailto:sdinesh12005@gmail.com" className="hover:text-tsr-blue-light transition-colors">sdinesh12005@gmail.com</a>
                                 </li>
                             </ul>
                         </div>

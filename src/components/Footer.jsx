@@ -34,20 +34,20 @@ const Footer = () => {
                             </li>
                             <li className="flex items-center">
                                 <Phone className="h-5 w-5 text-tsr-blue-light mr-3" />
-                                <a href="tel:9942685352" className="text-gray-300 hover:text-white transition-colors">
-                                    +91 99426 85352
+                                <a href="tel:9042954268" className="text-gray-300 hover:text-white transition-colors">
+                                    +91 90429 54268
                                 </a>
                             </li>
                             <li className="flex items-center">
                                 <MessageCircle className="h-5 w-5 text-green-500 mr-3" />
-                                <a href="https://wa.me/919942685352" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors">
+                                <a href="https://wa.me/919042954268" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors">
                                     WhatsApp Support
                                 </a>
                             </li>
                             <li className="flex items-center">
                                 <Mail className="h-5 w-5 text-tsr-blue-light mr-3" />
-                                <a href="mailto:support@tsrtraders.com" className="text-gray-300 hover:text-white transition-colors">
-                                    support@tsrtraders.com
+                                <a href="mailto:sdinesh12005@gmail.com" className="text-gray-300 hover:text-white transition-colors">
+                                    sdinesh12005@gmail.com
                                 </a>
                             </li>
                         </ul>

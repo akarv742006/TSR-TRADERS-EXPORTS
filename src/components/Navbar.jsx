@@ -23,7 +23,7 @@ const Navbar = () => {
                         <a href="#about" className="text-gray-600 hover:text-tsr-blue-dark px-3 py-2 text-sm font-medium transition-colors duration-200">About</a>
                         <a href="#services" className="text-gray-600 hover:text-tsr-blue-dark px-3 py-2 text-sm font-medium transition-colors duration-200">Services</a>
                         <a href="#order" className="text-brand-pink hover:text-pink-700 px-3 py-2 text-sm font-bold transition-colors duration-200">Place Order</a>
-                        <a href="tel:9942685352" className="flex items-center text-tsr-blue-dark font-bold px-3 py-2 text-sm hover:text-blue-800 transition-colors duration-200">
+                        <a href="tel:9042954268" className="flex items-center text-tsr-blue-dark font-bold px-3 py-2 text-sm hover:text-blue-800 transition-colors duration-200">
                             <span className="mr-2">Make a Call</span>
                         </a>
                         <a href="#contact" className="bg-tsr-blue-dark text-white hover:bg-blue-800 px-4 py-2 rounded-md text-sm font-medium transition-colors duration-200">Contact Us</a>

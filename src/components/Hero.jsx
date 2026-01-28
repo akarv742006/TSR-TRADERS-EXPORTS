@@ -36,7 +36,7 @@ const Hero = () => {
                                 </div>
                                 <div className="mt-3 sm:mt-0 sm:ml-3">
                                     <a
-                                        href="tel:9942685352"
+                                        href="tel:9042954268"
                                         className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-tsr-blue-dark bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg transition-all duration-300"
                                     >
                                         <Phone className="mr-2 h-5 w-5" /> Call Now
