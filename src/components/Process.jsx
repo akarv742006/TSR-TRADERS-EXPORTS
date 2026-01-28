@@ -1,5 +1,5 @@
 import React from 'react';
-import { FileText, PackageCheck, Truck, Handshake } from 'lucide-react';
+import { FileText, ClipboardCheck, Truck, Handshake } from 'lucide-react';
 
 const steps = [
     {
@@ -10,7 +10,7 @@ const steps = [
     {
         name: 'Quality Check',
         description: 'We rigorously inspect all products to ensure they meet international standards.',
-        icon: PackageCheck,
+        icon: ClipboardCheck,
     },
     {
         name: 'Logistics & Dispatch',

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Users, CheckCircle, Clock, Map } from 'lucide-react';
+import { Users, CheckCircle, Clock, Globe } from 'lucide-react';
 
 const Stats = () => {
     return (
@@ -35,7 +35,7 @@ const Stats = () => {
                             Global Reach
                         </dt>
                         <dd className="order-1 text-5xl font-extrabold text-white flex justify-center items-center">
-                            <Map className="h-10 w-10 mr-2 text-tsr-blue-light" /> Growing
+                            <Globe className="h-10 w-10 mr-2 text-tsr-blue-light" /> Growing
                         </dd>
                     </div>
                 </dl>
